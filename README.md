@@ -17,6 +17,7 @@ Además, me parece un tema importante de estudio para resolver problemas futuros
 
 ## Solución:
 
+![img](https://github.com/Laurajcb/Binary-tree-test/blob/main/bst.jpeg)
 
 - La forma en la que solucione la búsqueda de árboles binarios fue a través de recursión, ya que es un proceso repetitivo, analizando sí cada nodo respectivamente cumple con la condición, en caso de que alguno no la cumpla, el resultado será falso.
 - El algoritmo inicia la búsqueda con los valores iniciales (root, -infinity, infinity)
